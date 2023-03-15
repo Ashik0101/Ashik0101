@@ -1,8 +1,8 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20There!%20🤠&text2=💖%20Welcome!%20To%20My%20GitHub%20Profile&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20There!%20🤠&text2=💖%20Welcome!%20To%20My%20GitHub%20Profile&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hi 👋, I'm Md Ashik Ansari</h1>
 <h3 align="center">A passionate Node.js Backend Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="380" height="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik0101&label=Profile%20views&color=0e75b6&style=flat" alt="ashik0101" /> </p>
 
