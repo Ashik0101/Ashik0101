@@ -1,29 +1,30 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hey%20There!%20🤠&text2=💖%20Welcome!%20To%20My%20GitHub%20Profile&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
-<h1 align="center">Hi 👋, I'm Md Ashik</h1>
-<h3 align="center">A passionate Node.js backend developer from India</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">Hi 👋, I'm Md Ashik Ansari</h1>
+<h3 align="center">A passionate Node.js Backend Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashik0101&label=Profile%20views&color=0e75b6&style=flat" alt="ashik0101" /> </p>
+
 
 - 🌱 I’m currently learning **Node.js**
 
+- 👨‍💻 All of my projects are available at [https://ashik0101.github.io/](https://ashik0101.github.io/)
 
 - 💬 Ask me about **Node, HTML , CSS, JavaScript**
 
-
 - 📫 How to reach me **aashiqmohd04@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1gkw0ijoCR8VYJoAZaVsc1uApuW-B5cBJ/view?usp=share_link](https://drive.google.com/file/d/1gkw0ijoCR8VYJoAZaVsc1uApuW-B5cBJ/view?usp=share_link)
 
-
-
+- ⚡ Fun fact  **I think, I know Everything, I think, I don't know anything.**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashik0101" alt="ashik0101" /></a> </p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-ashik-ansari-446a2424b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-ashik-ansari-446a2424b/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/problemset/all/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/problemset/all/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/md_ashik01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/md_ashik01/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
