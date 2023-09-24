@@ -29,7 +29,10 @@ Here are some ideas to get you started:
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ashik-ansari-446a2424b/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://Ashik0101.github.io)
+[![Hackerrank](https://img.shields.io/badge/hackerrank-%230077B5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/aashiqmohd04/)
 [![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/Md_Ashik01/)
+
+
 <br/>
 <br/>
 
