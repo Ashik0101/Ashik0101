@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🔭 Selt-motivated **Node.js** Backend Developer.<br>
 🔭 Ask me about **Node.js, HTML , CSS, JavaScript** <br>
-🤝 Have done 5 projects from scratch <a href="https://shiny-torrone-da7559.netlify.app/">**SmartTutor**</a>, <a href="https://magnificent-banoffee-fc6b46.netlify.app/">**The Fitness Freak**</a>, <a href="https://subtle-sprinkles-8f360b.netlify.app/">**SastaBazar**</a>, <a href="https://magnificent-banoffee-fc6b46.netlify.app/">**The Fitness Freak**</a>, <a href="https://hilarious-quokka-b627d9.netlify.app/">**Better Living Home**</a>,<br>
+🤝 Have done 5 projects from scratch <a href="https://smart-tutor-six.vercel.app/">**SmartTutor**</a>, <a href="https://magnificent-banoffee-fc6b46.netlify.app/">**The Fitness Freak**</a>, <a href="https://sasta-bazar-mu.vercel.app/">**SastaBazar**</a>, <a href="https://magnificent-banoffee-fc6b46.netlify.app/">**The Fitness Freak**</a>, <a href="https://hilarious-quokka-b627d9.netlify.app/">**Better Living Home**</a>,<br>
 🔭 More about me => [My Portfolio](https://Ashik0101.github.io) <br/>
 📫 How to reach me **aashiqmohd04@gmail.com**
 
